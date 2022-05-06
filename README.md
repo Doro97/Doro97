@@ -1,16 +1,1 @@
-### Hi there 👋
-
-<!--
-**Doro97/Doro97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on different machine learning engineering and data engineering projects
-🌱 I’m currently a machine learning engineering student at 10Academy
-👯 I’m looking to collaborate on any data science,machine learning engineering or data engineering projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Dorothy and today is Friday, 6 May, 09:10 GMT+3
