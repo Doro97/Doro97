@@ -1,0 +1,22 @@
+{
+  "name": "doro97",
+  "version": "1.0.0",
+  "description": "A dynamic readme for my Github Profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doro97/Doro97.git"
+  },
+  "author": "Dorothy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doro97/Doro97/issues"
+  },
+  "homepage": "https://github.com/Doro97/Doro97#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
