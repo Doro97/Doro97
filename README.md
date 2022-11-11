@@ -1,5 +1,5 @@
 
-My name is Dorothy and today is Friday, 6 May, 09:10 GMT+3
+My name is {{name}}
 
 
 <div id="header" align="center">
