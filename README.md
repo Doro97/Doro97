@@ -22,7 +22,7 @@
 <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=doro97&theme=dark&hide_border=true"/></a></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doro97&show_icons=true&locale=en" alt="doro97" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doro97&show_icons=true&locale=en&theme=dark&hide_border=true" alt="doro97" /></p>
 
 <br>
 <h4>DevOps:</h4>
