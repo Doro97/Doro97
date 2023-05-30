@@ -14,15 +14,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doro97&label=Profile%20views&color=0e75b6&style=flat" alt="doro97" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doro97" alt="doro97" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doro97&theme=dark&hide_border=true" alt="doro97" /></a> </p>
 
 
 <h3>Streaks ansd Stats<h3/>
 
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=doro97&" alt="doro97" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=doro97&theme=dark&hide_border=true"/></a></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doro97&show_icons=true&locale=en" alt="doro97" /></p>
-
 
 <br>
 <h4>DevOps:</h4>
@@ -68,5 +68,7 @@
 <a href="https://linkedin.com/in/dorothy-cheruiyot-942a8611a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorothy-cheruiyot-942a8611a" height="30" width="40" /></a>
 </p>
 
+
+[GitHub Streak](https://streak-stats.demolab.com?user=doro97&theme=dark&hide_border=true)
 
 
