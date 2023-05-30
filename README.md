@@ -14,10 +14,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doro97&label=Profile%20views&color=0e75b6&style=flat" alt="doro97" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doro97&theme=dark&hide_border=true" alt="doro97" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doro97&theme=onedark" alt="doro97" /></a> </p>
 
 
-<h3>Streaks ansd Stats<h3/>
+<h3>Streaks and Stats<h3/>
 
 <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=doro97&theme=dark&hide_border=true"/></a></p>
 
@@ -67,8 +67,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/dorothy-cheruiyot-942a8611a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorothy-cheruiyot-942a8611a" height="30" width="40" /></a>
 </p>
-
-
-[GitHub Streak](https://streak-stats.demolab.com?user=doro97&theme=dark&hide_border=true)
 
 
